@@ -1,8 +1,3 @@
-
-Aiswarya Ramachandran <sng22mca07@sngce.ac.in>
-Wed, Feb 15, 9:13 PM (7 days ago)
-to me
-
 #include<stdio.h>  
 #include<stdlib.h>  
 struct node   
